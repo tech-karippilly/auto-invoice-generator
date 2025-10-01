@@ -15,6 +15,12 @@ Built with **Next.js, Nest.js, MongoDB, and TailwindCSS**.
 
 ---
 
+## 🎨 Design Reference
+The UI/UX design for this project is available here:  
+👉 [View Design on Google Stitch](https://stitch.withgoogle.com/projects/9392573583386249106)
+
+---
+
 ## 🏗️ Tech Stack
 - **Frontend:** Next.js + TailwindCSS
 - **Backend:** Nest.js + Mongoose (MongoDB ODM)
@@ -27,3 +33,4 @@ Built with **Next.js, Nest.js, MongoDB, and TailwindCSS**.
 ---
 
 ## 📌 Project Structure
+
